@@ -6,7 +6,8 @@ Created on Mon Apr  8 10:26:53 2019
 """
 
 
-from imagescrapper.ImageScrapper import ImageScrapper
+#from imagescrapper.ImageScrapper 
+import ImageScrapper
 from imagescrapperutils.ImageScrapperUtils import ImageScrapperUtils
 class ImageScrapperService:
     
