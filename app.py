@@ -7,7 +7,8 @@ Created on Mon Apr  8 12:55:29 2019
 # Importing the necessary Libraries
 from flask_cors import CORS,cross_origin
 from imagescrapperservice.ImageScrapperService import ImageScrapperService
-from imagescrapper.ImageScrapper import ImageScrapper
+#from imagescrapper.ImageScrapper 
+import ImageScrapper
 from flask import Flask, render_template, request,jsonify
 
 
